@@ -1,0 +1,1 @@
+Sabıka kayıt sistemi tasarlanmıştır. Sistemin 2 adet kullanıcısı bulunmaktadır. Bunlardan birisi yalnızca kişinin sabıka bilgisini görüntüleyebilir. İkincisi ise kişiye yeni sabıka ekleyebilir. Kişinin kimlik bilgileri, işlediği suçlar gibi bilgileri verilen id numarasına(TCKNO) sorgulanıp sistem kullanıcısına sunulur. Proje için PostgreSQL veri tabanı ve Java kullanılmıştır.
